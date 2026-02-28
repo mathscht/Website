@@ -1070,7 +1070,7 @@ body {
 .project-meta {
     font-size: 16px;
     color: #8876d6;
-    margin-top: 8px; /* On gère l'espace sous le titre ici */
+    margin-top: 8px;
 }
 
 .project-modal-description {
@@ -1078,7 +1078,7 @@ body {
     font-weight: 300;                     /* texte léger */
     font-size: 16px;
     line-height: 1.4;
-    color:  #720d04;                      /* couleur principale */
+    color:  #720d04;                      
     margin: 0;
     padding-top: 5px; 
 }
