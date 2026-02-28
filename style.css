@@ -1064,7 +1064,7 @@ body {
     font-weight: 500;
     color: #720d04;
     margin: 0; 
-    line-height: 1.1; /* Un poil plus que 1 pour éviter de couper les lettres hautes */
+    line-height: 1.1;
 }
 
 .project-meta {
@@ -1074,8 +1074,8 @@ body {
 }
 
 .project-modal-description {
-    font-family: ' Libre Baskerville ', 400 Italic;  /* typo fine et moderne */
-    font-weight: 300;                     /* texte léger */
+    font-family: ' Libre Baskerville ', 400 Italic; 
+    font-weight: 300;
     font-size: 16px;
     line-height: 1.4;
     color:  #720d04;                      
